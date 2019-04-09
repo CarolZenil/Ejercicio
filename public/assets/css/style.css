@@ -1,0 +1,37 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 10px;
+    margin: 9px;
+    width: 50px;
+}
+
+td{
+	width: 50px; /*Aquí va el ancho de la Celda*/
+	
+}
+
+
+
+.head{
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-left: 500px;
+	padding-left: 500px;
+}
+
+.principal{
+
+}
+
+.lateral{
+	height:400px; 
+	float: left;
+	margin-left: 10px
+}
